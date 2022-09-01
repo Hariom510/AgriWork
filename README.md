@@ -1,5 +1,5 @@
 # ALOE - FOR HEALTH & BEAUTY
-## INTRODUCTION
+## INTRODUCTION 	  
 India is well known for its rich biodiversity and immense array of nat - ural resources. Amongst the innumera - ble and invaluable medicinal flora, Aloe vera (syn. Aloe barbadensis) claims a unique position. From its appearance, no one would guess usually that it belongs to the Lilly family. This popular plant is known by various names, from region to region and language to language. To mention a few: Ghikanvar or Ghikuvar (Hindi), Gritakumari (Sanskrit and Bengali), Chinnakattabanda (Telugu), Kattali or Chirukattali (Tamil), and Kumari or Kattarvazha (Malayalam). Mediterranean regions being the centre of origin of this crop, possesses many species of Aloe. Mainly four species have been identified In India, which grow as wild in arid or semi arid regions of the country. Aloe plant has rosette appearance with a well-de - veloped fibrous root system. The plant grows only up to a height of 8-24 inches and spreads to an extent of 12-25 inches. The plant appears as stemless as the short stout stem is wrapped with tightly packed leaves (pads), 30-60 cm long, with broad base, attenuated apex and distantly dentate margins. This plant flowers very rarely or towards the end of its lifespan. The inflorescence is a simple raceme bearing actinomorphic flowers with lanceolate acute bracts and yellow cylindrical perianth tube. In nature, two strains of Aloe vera exist viz., vegetable type and medicinal type, former bearing sweet (less bitter) pads while the latter owns bitter ones. This plant is highly priced for its medici - nal properties. Myriad other uses of Aloe include cosmetic, ornamental plant, veg - etable etc.
 
 ![Minion](https://user-images.githubusercontent.com/85151795/187685291-ea4a7514-5551-4adc-bfb5-d5d56ce3ab17.jpg)
@@ -32,3 +32,11 @@ Thus, the myriad uses of Aloe are well known and widely acclaimed all over the w
 So dear readers……please rush up to your nearest nursery to grab the Aloe plant - a living and comforting first aid - and get it established in your garden today itself….!!!
 
 ![Minion](https://user-images.githubusercontent.com/85151795/187687194-643a851f-1aae-4109-a829-1733d5b9194b.png)
+
+### ABOUT THE AUTHOR
+#### P. Sindhumole
+Assistant Professor & Head
+AICRP on Medicinal & Aromatic Plants and Betel vine, College of Agriculture, Vellanikkara, Kerala 
+Agricultural University, Thrissur, Kerala
+#### Email
+[sindhumole.p@kau.in](sindhumole.p@kau.in)
